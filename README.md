@@ -1,6 +1,6 @@
 <img src="images/seraphbanner.png">
   <p align="center">
-    seraph; an open source game website that hosts 300+ games with cloaking tab functionality, multiple themes, full rehosting support and content updates every week
+    seraph; an open source game website that hosts 300+ games with cloaking tab functionality, multiple themes, full rehosting support and content updates frequently
     <br/>
     <a href="https://seraph.reveriestudios.online/">go to seraph</a>
     ·
@@ -21,7 +21,7 @@
 - multiple themes changing the colour and overall appearance of the site to make it yours
 - a hosting page with instructions on how to rehost seraph for free
 - a full update log page detailing every change made to the website
-- content updates every week with new games and website enhancements
+- frequent content updates with new games and website enhancements
 
 ## credits
 **resources used**
